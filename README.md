@@ -13,7 +13,7 @@ https://github.com/alexandremstf/roboduto/assets/22629772/534f197b-0ab1-4154-8ae
 https://github.com/alexandremstf/roboduto/assets/22629772/5e3fbc97-74ba-4ced-a09e-ee19602efca9
 
 ### Simulação utilizando controle por campo vetorial artificial seguindo parede lateral
-https://github.com/alexandremstf/roboduto/assets/22629772/07dd22e8-2da9-4459-ab95-fbc5f581cebb
+https://github.com/alexandremstf/roboduto/assets/22629772/41c2d773-4a10-4dd5-ad1d-b507f7be9117
 
 ### Simulação utilizando controle por campo vetorial artificial no centro do corredor
-https://github.com/alexandremstf/roboduto/assets/22629772/dcf0e5ba-c9d8-40d7-9b90-c4eaa5311948
+https://github.com/alexandremstf/roboduto/assets/22629772/f9a7aa3d-2b82-4d5f-aecd-ed51ffae5061
